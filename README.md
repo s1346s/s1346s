@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20HyungJun%20s1346s%20Profile!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20s1346s%20Profile!&fontSize=50)
 
 # 🔍신 형 준🔎
 
